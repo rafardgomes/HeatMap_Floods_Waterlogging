@@ -5,7 +5,7 @@ This project utilizes Python and the Folium library to map the recurrence of hyd
 
 ### Data Sources
 * **Drainage Network (SEMIL):** State-level mapping (2022, 1:50,000 scale). [Source](https://semil.sp.gov.br/sma/cessao-de-dados/#1694729758233-237be3b9-66ca)
-* **Flood Occurrences (GeoSampa/SIGRC):** Civil Defense records (2013-2026). [Source](https://geosampa.prefeitura.sp.gov.br/)
+* **Flood Occurrences (GeoSampa/SIGRC):** Civil Defense records (2013-2026). [Source]([https://geosampa.prefeitura.sp.gov.br/](https://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx))
 
 ### Technical Definitions (Ministry of Cities/IPT)
 * **Waterlogging (Alagamento):** Temporary accumulation of water caused by failures in the urban drainage system.
